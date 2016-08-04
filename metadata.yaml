@@ -1,0 +1,38 @@
+_repo: The-School-for-Scandal_1929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sheridan, Richard Brinsley
+    aliases:
+    - Sheridan, Richard Brinsley Butler
+    - Sheridan, R. B. (Richard Brinsley)
+    birthdate: 1751
+    deathdate: 1816
+    gutenberg_agent_id: '754'
+    url: http://www.gutenberg.org/2009/agents/754
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan
+description: The School for Scandal is a comedy of manners written by Richard Brinsley
+  Sheridan. It was first performed in London at Drury Lane Theatre on May 18, 1777.
+  With principal themes of "the deceptive nature of appearances, the fickleness of
+  reputation, [and] the often disreputable guises behind which goodness and honesty
+  can conceal itself," it has been noted that "The play remains to this day a crowd-pleaser
+  and one of the standard repertory pieces in our dramatic literature.". [Adapted
+  from http://en.wikipedia.org/wiki/The_School_for_Scandal].
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '1999-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 18th century'
+- !lcsh 'Nobility -- England -- History -- 18th century -- Drama'
+- !lcsh 'England -- Social life and customs -- 18th century -- Drama'
+- !lcsh 'Comedies'
+- !lcc 'PR'
+- GITenberg
+title: The School for Scandal
+url: http://www.gutenberg.org/ebooks/1929
