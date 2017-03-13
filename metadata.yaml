@@ -1,5 +1,8 @@
 _repo: The-School-for-Scandal_1929
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sheridan, Richard Brinsley
@@ -18,6 +21,8 @@ description: The School for Scandal is a comedy of manners written by Richard Br
   can conceal itself," it has been noted that "The play remains to this day a crowd-pleaser
   and one of the standard repertory pieces in our dramatic literature.". [Adapted
   from http://en.wikipedia.org/wiki/The_School_for_Scandal].
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1929#The-School-for-Scandal
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '1999-10-01'
 gutenberg_type: Text
